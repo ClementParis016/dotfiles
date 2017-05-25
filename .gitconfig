@@ -1,0 +1,19 @@
+[user]
+	email = clementparis016@gmail.com
+	name = ClementParis016
+[alias]
+	st = status
+	stash-all = stash save --include-untracked
+	undo = reset --soft ^HEAD
+	prune = fetch --prune
+	slog = log --pretty --oneline
+	glog = log --pretty --graph --oneline --decorate
+[core]
+	autocrlf = input
+	pager = diff-so-fancy | less --tabs=4 -RFX
+	editor = vim
+[push]
+	default = simple
+	followTags = true
+[status]
+	showUntrackedFiles = all
