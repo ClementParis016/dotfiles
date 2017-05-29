@@ -8,6 +8,7 @@
 	prune = fetch --prune
 	slog = log --pretty --oneline
 	glog = log --pretty --graph --oneline --decorate
+	co = checkout
 [core]
 	autocrlf = input
 	pager = diff-so-fancy | less --tabs=4 -RFX
