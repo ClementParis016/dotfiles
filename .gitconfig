@@ -5,7 +5,7 @@
 	st = status
 	stash-all = stash save --include-untracked
 	undo = reset --soft ^HEAD
-	prune = fetch --prune
+	clear-branches = fetch --prune
 	slog = log --pretty --oneline
 	glog = log --pretty --graph --oneline --decorate
 	co = checkout
