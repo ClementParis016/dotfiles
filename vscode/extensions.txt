@@ -1,0 +1,7 @@
+eamodio.gitlens
+EditorConfig.EditorConfig
+joshpeng.theme-onedark-sublime
+jpoissonnier.vscode-styled-components
+ms-vscode.sublime-keybindings
+wix.vscode-import-cost
+zhuangtongfa.Material-theme

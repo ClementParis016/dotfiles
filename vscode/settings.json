@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "One Dark (Sublime)",
+    "workbench.iconTheme": "vs-seti",
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\bash.exe",
+    "editor.renderIndentGuides": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "editor.rulers": [
+        80
+    ],
+    "editor.fontFamily": "'Fira Code'",
+    "editor.tabSize": 2,
+    "editor.lineHeight": 20,
+    "editor.fontLigatures": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "'Fira Code'",
+    "terminal.integrated.fontLigatures": true,
+    "terminal.integrated.cursorBlinking": true
+}
