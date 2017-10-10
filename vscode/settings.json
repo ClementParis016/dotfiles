@@ -12,6 +12,7 @@
     "editor.tabSize": 2,
     "editor.lineHeight": 20,
     "editor.fontLigatures": true,
+    "editor.multiCursorModifier": "ctrlCmd",
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "terminal.integrated.cursorStyle": "line",
