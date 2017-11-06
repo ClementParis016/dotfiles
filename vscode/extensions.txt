@@ -1,7 +1,11 @@
 eamodio.gitlens
 EditorConfig.EditorConfig
 joshpeng.theme-onedark-sublime
+joshpeng.sublime-babel-vscode
 jpoissonnier.vscode-styled-components
 ms-vscode.sublime-keybindings
 wix.vscode-import-cost
-zhuangtongfa.Material-theme
+robertohuertasm.vscode-icons
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+DotJoshJohnson.xml
