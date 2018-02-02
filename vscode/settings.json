@@ -1,24 +1,29 @@
 {
-    "workbench.colorTheme": "One Dark (Sublime)",
-    "workbench.iconTheme": "vs-seti",
-    "editor.renderIndentGuides": true,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.tabSize": 2,
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80,
+    "editor.lineHeight": 20,
     "editor.rulers": [
         80
     ],
-    "editor.fontFamily": "'Fira Code'",
-    "editor.tabSize": 2,
-    "editor.lineHeight": 20,
+    "editor.renderIndentGuides": true,
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
+    "workbench.colorTheme": "One Dark (Sublime)",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.fontFamily": "'Fira Code'",
-    "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\bash.exe",
+    "terminal.integrated.cursorBlinking": true,
     "prettier.singleQuote": true,
-    "search.useIgnoreFiles": true
+    "search.useIgnoreFiles": true,
+    "stylelint.enable": true,
+    "css.validate": false,
+    "scss.validate": false,
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": false,
+    "todohighlight.keywordsPattern": "@?(todo|fix)"
 }
