@@ -25,5 +25,6 @@
     "scss.validate": false,
     "todohighlight.isEnable": true,
     "todohighlight.isCaseSensitive": false,
-    "todohighlight.keywordsPattern": "@(todo|fix)"
+    "todohighlight.keywordsPattern": "@(todo|fix)",
+    "eslint.autoFixOnSave": true    
 }
