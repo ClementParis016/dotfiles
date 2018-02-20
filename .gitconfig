@@ -4,7 +4,7 @@
 [alias]
 	st = status
 	stash-all = stash save --include-untracked
-	undo = reset --soft ^HEAD
+	undo = reset --soft HEAD^
 	clear-branches = fetch --prune
 	slog = log --pretty --oneline
 	glog = log --pretty --graph --oneline --decorate
